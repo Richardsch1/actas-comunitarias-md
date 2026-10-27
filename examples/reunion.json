@@ -1,0 +1,15 @@
+{
+  "title": "EJEMPLO FICTICIO: reunión sobre agua comunitaria",
+  "date": "2026-10-27",
+  "place": "Local comunitario ficticio",
+  "participantRoles": ["Equipo de coordinación", "Equipo de mantenimiento"],
+  "agenda": [{"id": "tema-agua", "title": "Preparar observaciones generales del servicio"}],
+  "agreements": [{
+    "id": "acuerdo-uno",
+    "agendaId": "tema-agua",
+    "description": "Revisar las observaciones ficticias antes de preparar una solicitud.",
+    "responsibleRole": "Equipo de coordinación",
+    "dueOn": "2026-11-03",
+    "status": "pendiente"
+  }]
+}
